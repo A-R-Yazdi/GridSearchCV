@@ -1,0 +1,4 @@
+# Survival prediction of Titanic passengers using 5 algorithms, with hypermater tuning 
+
+## Summary
+In this project, Logistic Regression (LR), Support Vector Machine (SVM), Mulitlayer Perceptron (MLP), Random Forest (RF) and Gradient Boosting (GB) were used to predict survival of Titanic passengers. After data cleaning and preprocessing, models were made using the aforementioned 5 algorithms and hyperparemeter tuning was performed. Finally, the top models (one for each algorithm) were evaluated on the evaluation set and the best performing model was chosen to run the test set. The best performing model was a GB one.  
